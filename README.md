@@ -96,7 +96,7 @@ Especialidad en Ciencia de Datos — Alura Latam
 📧 Email: Ingmartinez0311@gmail.com  
 
 💼 LinkedIn  
-linkedin.com/in/ingmartinez-057b6b18  
+https://www.linkedin.com/in/ing-martinez-057b6b181/
 
 💻 GitHub  
 github.com/ingmartinez031
