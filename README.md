@@ -87,7 +87,7 @@ Especialidad en Ciencia de Datos — Alura Latam
 # 📄 CV
 
 📎  
-[Ver CV](https://github.com/ingmartinez031)
+[Ver CV](https://github.com/ingmartinez031/Cv-Ing.Richard-Martinez)
 
 ---
 
